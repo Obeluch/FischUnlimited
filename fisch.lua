@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("You have been banned for using disadvantages In-Game(Cheating, Exploiting etc.). If you think this is a mistake, please head over to the support channel.")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
